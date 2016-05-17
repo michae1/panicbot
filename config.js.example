@@ -1,0 +1,8 @@
+module.exports = {
+	token:"xxxxxxx",
+	items: [
+		'АААААААА!!! EVERYTHING BROKEN!!!',
+		'АААААААА!!! EVERYTHING BROKEN AGAIN!!!'
+	],
+	keywords: ["lets panic"]
+}
